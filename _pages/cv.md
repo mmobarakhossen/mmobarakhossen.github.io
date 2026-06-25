@@ -17,7 +17,7 @@ Education
   * Department of Economics, Monash Business School
   * Supervisors: Gaurav Datt (main); Liang Choon Wang (associate)
   * Thesis: *Household consumption, food security and welfare in Bangladesh: distributional effects of natural shocks/disasters*
-* MSc in Development Economics (Merit), University of Birmingham, UK, 2018
+* MSc in Development Economics, University of Birmingham, UK, 2018
   * Dissertation: *Human and Physical Capital Accumulation in Bangladesh: Impacts of Remittances*
 * MBA, University of Dhaka, Bangladesh, 2010
 * BBA, University of Dhaka, Bangladesh, 2009
