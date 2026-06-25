@@ -19,8 +19,8 @@ Education
   * Thesis: *Household consumption, food security and welfare in Bangladesh: distributional effects of natural shocks/disasters*
 * MSc in Development Economics (Merit), University of Birmingham, UK, 2018
   * Dissertation: *Human and Physical Capital Accumulation in Bangladesh: Impacts of Remittances*
-* MBA (CGPA 3.65/4.00), University of Dhaka, Bangladesh, 2010
-* BBA (CGPA 3.53/4.00), University of Dhaka, Bangladesh, 2009
+* MBA, University of Dhaka, Bangladesh, 2010
+* BBA, University of Dhaka, Bangladesh, 2009
 
 Research
 ======
