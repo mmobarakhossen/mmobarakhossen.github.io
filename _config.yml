@@ -22,7 +22,7 @@ repository               : "mmobarakhossen/mmobarakhossen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Md Mobarak Hossen"
   pronouns         : # example: "she/her"
   bio              : "PhD Candidate & Teaching Associate in Economics, Monash University. Development, environmental & agricultural economics."
