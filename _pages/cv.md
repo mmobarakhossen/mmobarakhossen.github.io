@@ -35,6 +35,12 @@ Research interests
 * Agricultural economics — climate shocks and crop (rice) yields
 * Applied econometrics — panel data, instrumental variables, causal inference, impact evaluation
 
+Conference & workshop presentations
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 * Feb 2025 – present: Teaching Associate (Sessional Academic)
